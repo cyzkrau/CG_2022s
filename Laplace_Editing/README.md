@@ -1,4 +1,4 @@
-# Seam Carving
+# Laplace Editing
 
 In Visual Studio, open <code>glvu/glvu.sln</code> and run it. 
 
