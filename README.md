@@ -13,5 +13,6 @@ Now, here are 7 projects (updating..):
 - [Parameterization](Parameterization)
 - [Laplace Editing](Laplace_Editing)
 - [ARAP Interpolation](ARAP_Interpolation)
+- [Bezier Curve](Bezier_Curve)
 
 Most of the code is based on MATLAB and C++. 
