@@ -5,7 +5,7 @@ Here is my homework codes git in USTC Computer Graphics course (ID: 001065.01) i
 - Course Webpage: [Computer Graphics](http://staff.ustc.edu.cn/~renjiec/CG_2021S2/default.htm)
 - Teacher: [Prof. Dr. Renjie Chen](http://staff.ustc.edu.cn/~renjiec)
 
-Now, here are 7 projects (updating..):
+Now, here are 8 projects (updating..):
 
 - [Image Warping](Image_warping)
 - [Poisson Editing](Poisson_Editing)
@@ -14,5 +14,6 @@ Now, here are 7 projects (updating..):
 - [Laplace Editing](Laplace_Editing)
 - [ARAP Interpolation](ARAP_Interpolation)
 - [Bezier Curve](Bezier_Curve)
+- [Texture Mapping](Texture_Mapping)
 
 Most of the code is based on MATLAB and C++. 
